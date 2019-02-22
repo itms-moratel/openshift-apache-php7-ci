@@ -1,4 +1,4 @@
-# openshift-apache-php7
+# openshift-apache-php7-codeigniter
 
 Template for running a apache php7 on a container based on alpine linux/openshift/docker.
 
